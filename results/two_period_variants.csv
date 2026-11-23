@@ -1,0 +1,7 @@
+variant,stations,up,median_change,ardhali_change,ardhali_rank
+orig,166,18,-4.37,-62.37,1
+drop_partial_winters,147,15,-4.97,-63.86,1
+winter_calendar_year,166,18,-4.37,-62.37,1
+all_four_seasons,103,11,-0.81,-62.37,1
+min3_per_season,146,15,-2.97,-63.53,1
+common_calendar_months,164,18,-4.37,-62.37,1

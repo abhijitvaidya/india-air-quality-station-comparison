@@ -1,0 +1,21 @@
+manual_station,continuous_station,station_id,distance_km,window,months_used,manual_mean,continuous_all_valid_days,random9_p2_5,random9_p97_5,top9_days_each_month_bound,share_of_gap_random9_p97_5,months_manual_above_top9
+Banaras Hindu University,IESD BHU,site_5468,0.6,Nov 2023–Mar 2024,5,148.7,54.1,49.8,58.6,74.7,0.05,5
+Banaras Hindu University,IESD BHU,site_5468,0.6,Jul 2021–Mar 2022,9,102.3,77.5,73.2,81.9,102.7,0.18,6
+Banaras Hindu University,IESD BHU,site_5468,0.6,FY 2022–23,12,165.2,68.2,64.9,71.6,92.0,0.04,10
+Banaras Hindu University,IESD BHU,site_5468,0.6,FY 2023–24,12,158.1,47.1,44.2,50.0,66.9,0.03,12
+Banaras Hindu University,IESD BHU,site_5468,0.6,FY 2024–25,9,89.6,44.5,40.8,48.4,64.2,0.09,4
+Jawahar Nagar,Bhelupur,site_5469,0.4,Nov 2023–Mar 2024,5,179.5,72.2,66.0,78.6,99.4,0.06,5
+Jawahar Nagar,Bhelupur,site_5469,0.4,Jul 2021–Mar 2022,9,203.5,97.0,91.7,102.4,128.9,0.05,8
+Jawahar Nagar,Bhelupur,site_5469,0.4,FY 2022–23,12,210.1,91.1,86.6,95.5,121.5,0.04,11
+Jawahar Nagar,Bhelupur,site_5469,0.4,FY 2023–24,12,182.4,67.0,62.9,71.1,93.5,0.04,12
+Jawahar Nagar,Bhelupur,site_5469,0.4,FY 2024–25,9,115.1,58.9,55.3,62.4,80.1,0.06,6
+Saket Nagar,Bhelupur,site_5469,1.5,Nov 2023–Mar 2024,5,148.2,72.2,66.0,78.6,99.4,0.08,5
+Saket Nagar,Bhelupur,site_5469,1.5,Jul 2021–Mar 2022,9,152.1,97.0,91.8,102.6,128.9,0.1,7
+Saket Nagar,Bhelupur,site_5469,1.5,FY 2022–23,11,186.5,86.7,82.0,91.5,117.6,0.05,10
+Saket Nagar,Bhelupur,site_5469,1.5,FY 2023–24,12,156.7,67.0,63.0,71.2,93.5,0.05,12
+Saket Nagar,Bhelupur,site_5469,1.5,FY 2024–25,9,88.3,58.9,55.3,62.4,80.1,0.12,4
+Sigra,Maldahiya,site_5475,1.3,Nov 2023–Mar 2024,5,159.9,65.1,59.8,70.4,87.6,0.06,5
+Sigra,Maldahiya,site_5475,1.3,Jul 2021–Mar 2022,9,196.9,97.3,92.0,102.7,127.8,0.05,8
+Sigra,Maldahiya,site_5475,1.3,FY 2022–23,12,205.5,87.1,83.3,90.9,112.7,0.03,11
+Sigra,Maldahiya,site_5475,1.3,FY 2023–24,12,168.4,61.7,58.4,65.0,83.0,0.03,12
+Sigra,Maldahiya,site_5475,1.3,FY 2024–25,9,104.2,48.8,45.8,51.9,66.6,0.06,5

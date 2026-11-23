@@ -1,0 +1,8 @@
+# Downloads and the hourly database are not part of the repository (see data/README.md)
+data/raw/
+# Bootstrap draws of the step test (large; remade by 23_step_tests.py)
+results/step_tests/*.npy
+__pycache__/
+*.pyc
+.DS_Store
+.env

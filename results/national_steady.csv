@@ -1,0 +1,88 @@
+group,reference,from,to,stations,cities,mean_pct,lo,hi,median_pct,share_falling
+"Uttar Pradesh, reporting by 2019",washu,2019,2022,17,10,-24.515,-32.966,-15.511,-16.405,0.941
+"Uttar Pradesh, reporting by 2019",washu,2022,2024,22,11,3.601,-6.271,10.434,4.321,0.455
+"Uttar Pradesh, reporting by 2019",washu,2016,2017,5,4,0.739,-8.623,7.572,2.129,0.4
+"Uttar Pradesh, reporting by 2019",washu,2017,2018,6,5,-4.634,-18.313,6.358,-4.333,0.667
+"Uttar Pradesh, reporting by 2019",washu,2018,2019,11,8,-8.276,-13.981,-2.15,-10.049,0.727
+"Uttar Pradesh, reporting by 2019",washu,2019,2020,17,11,-6.624,-13.714,1.115,-6.289,0.647
+"Uttar Pradesh, reporting by 2019",washu,2020,2021,21,12,-6.72,-12.726,-1.655,-7.293,0.714
+"Uttar Pradesh, reporting by 2019",washu,2021,2022,21,11,-11.64,-18.756,0.108,-9.898,0.857
+"Uttar Pradesh, reporting by 2019",washu,2022,2023,22,11,-1.166,-11.552,6.225,2.894,0.409
+"Uttar Pradesh, reporting by 2019",washu,2023,2024,22,11,4.439,-4.25,14.153,2.544,0.455
+"Uttar Pradesh, reporting by 2019",cams,2019,2022,17,10,-30.968,-39.458,-23.312,-24.878,1.0
+"Uttar Pradesh, reporting by 2019",cams,2022,2024,22,11,-5.649,-15.303,2.444,-7.342,0.636
+"Uttar Pradesh, reporting by 2019",cams,2016,2017,5,4,-5.768,-12.946,-1.299,-4.886,0.8
+"Uttar Pradesh, reporting by 2019",cams,2017,2018,6,5,-14.379,-25.871,-3.555,-14.054,0.833
+"Uttar Pradesh, reporting by 2019",cams,2018,2019,11,8,-3.744,-8.386,3.069,-5.742,0.727
+"Uttar Pradesh, reporting by 2019",cams,2019,2020,17,11,-15.05,-21.503,-7.898,-11.193,0.882
+"Uttar Pradesh, reporting by 2019",cams,2020,2021,21,12,-9.319,-13.746,-5.723,-8.529,0.857
+"Uttar Pradesh, reporting by 2019",cams,2021,2022,21,11,-8.752,-15.696,1.728,-9.536,0.667
+"Uttar Pradesh, reporting by 2019",cams,2022,2023,22,11,-10.649,-19.624,-4.24,-8.542,0.864
+"Uttar Pradesh, reporting by 2019",cams,2023,2024,22,11,5.233,-4.631,16.299,1.404,0.5
+"Uttar Pradesh, reporting by 2019",ceres,2019,2022,17,10,-12.546,-26.428,-2.378,-8.263,0.647
+"Uttar Pradesh, reporting by 2019",ceres,2022,2024,22,11,-20.842,-28.478,-14.691,-22.597,0.909
+"Uttar Pradesh, reporting by 2019",ceres,2016,2017,5,4,0.63,-10.1,6.973,2.986,0.2
+"Uttar Pradesh, reporting by 2019",ceres,2017,2018,6,5,-9.192,-24.024,1.741,-8.68,0.667
+"Uttar Pradesh, reporting by 2019",ceres,2018,2019,11,8,-21.653,-27.955,-15.848,-22.23,0.909
+"Uttar Pradesh, reporting by 2019",ceres,2019,2020,17,11,-2.971,-12.403,5.486,-4.389,0.588
+"Uttar Pradesh, reporting by 2019",ceres,2020,2021,21,12,-5.394,-9.622,-1.82,-4.94,0.667
+"Uttar Pradesh, reporting by 2019",ceres,2021,2022,21,11,-2.751,-10.348,7.82,-2.688,0.619
+"Uttar Pradesh, reporting by 2019",ceres,2022,2023,22,11,-14.597,-23.496,-8.218,-9.946,0.864
+"Uttar Pradesh, reporting by 2019",ceres,2023,2024,22,11,-7.641,-16.833,2.809,-10.803,0.727
+"Uttar Pradesh, started 2020 or later",washu,2022,2024,29,13,-16.006,-26.159,-4.043,-17.749,0.621
+"Uttar Pradesh, started 2020 or later",washu,2021,2022,12,6,-14.93,-36.722,8.842,-6.651,0.667
+"Uttar Pradesh, started 2020 or later",washu,2022,2023,29,13,-7.75,-17.01,1.867,-6.524,0.69
+"Uttar Pradesh, started 2020 or later",washu,2023,2024,30,13,-12.162,-20.016,-3.787,-6.64,0.6
+"Uttar Pradesh, started 2020 or later",cams,2022,2024,29,13,-25.537,-34.379,-16.516,-25.523,0.931
+"Uttar Pradesh, started 2020 or later",cams,2021,2022,12,6,-10.747,-35.147,12.173,1.706,0.417
+"Uttar Pradesh, started 2020 or later",cams,2022,2023,29,13,-16.827,-24.835,-9.582,-15.591,0.862
+"Uttar Pradesh, started 2020 or later",cams,2023,2024,30,13,-13.761,-22.364,-4.975,-8.633,0.633
+"Uttar Pradesh, started 2020 or later",ceres,2022,2024,29,13,-35.391,-43.085,-27.771,-35.147,0.966
+"Uttar Pradesh, started 2020 or later",ceres,2021,2022,12,6,-7.927,-33.333,16.517,2.511,0.417
+"Uttar Pradesh, started 2020 or later",ceres,2022,2023,29,13,-17.407,-25.285,-10.428,-15.745,0.897
+"Uttar Pradesh, started 2020 or later",ceres,2023,2024,30,13,-24.106,-31.83,-16.435,-20.02,0.9
+"Rest of India, reporting by 2019",washu,2019,2022,145,82,-1.054,-4.393,3.069,0.353,0.49
+"Rest of India, reporting by 2019",washu,2022,2024,152,85,-2.702,-8.352,1.65,-0.19,0.513
+"Rest of India, reporting by 2019",washu,2016,2017,17,11,-16.322,-28.861,-3.81,-12.869,0.647
+"Rest of India, reporting by 2019",washu,2017,2018,30,15,3.865,-8.725,15.092,-5.646,0.7
+"Rest of India, reporting by 2019",washu,2018,2019,100,51,-4.066,-10.099,-1.361,-3.661,0.61
+"Rest of India, reporting by 2019",washu,2019,2020,145,82,-9.787,-12.449,-7.605,-6.957,0.779
+"Rest of India, reporting by 2019",washu,2020,2021,156,86,6.381,2.806,10.157,5.464,0.34
+"Rest of India, reporting by 2019",washu,2021,2022,154,85,3.49,1.273,6.593,3.402,0.403
+"Rest of India, reporting by 2019",washu,2022,2023,156,88,-0.421,-4.129,3.043,-0.97,0.532
+"Rest of India, reporting by 2019",washu,2023,2024,155,89,-1.579,-5.815,1.596,-1.482,0.516
+"Rest of India, reporting by 2019",cams,2019,2022,145,82,-11.45,-14.957,-7.362,-10.88,0.745
+"Rest of India, reporting by 2019",cams,2022,2024,152,85,-4.056,-11.25,1.421,-1.847,0.526
+"Rest of India, reporting by 2019",cams,2016,2017,17,11,-18.795,-29.583,-5.284,-18.726,0.706
+"Rest of India, reporting by 2019",cams,2017,2018,30,15,1.262,-10.027,8.934,-6.352,0.6
+"Rest of India, reporting by 2019",cams,2018,2019,100,51,-0.415,-6.623,3.218,-0.116,0.5
+"Rest of India, reporting by 2019",cams,2019,2020,145,82,-15.105,-17.121,-12.395,-13.56,0.855
+"Rest of India, reporting by 2019",cams,2020,2021,156,86,2.466,-2.228,7.39,0.617,0.462
+"Rest of India, reporting by 2019",cams,2021,2022,154,85,2.713,0.156,5.176,1.811,0.409
+"Rest of India, reporting by 2019",cams,2022,2023,156,88,-6.093,-9.138,-2.524,-5.92,0.679
+"Rest of India, reporting by 2019",cams,2023,2024,155,89,2.556,-3.551,7.618,5.669,0.4
+"Rest of India, reporting by 2019",ceres,2019,2022,145,82,5.106,-2.295,10.908,6.992,0.359
+"Rest of India, reporting by 2019",ceres,2022,2024,152,85,-19.28,-25.003,-14.742,-16.355,0.842
+"Rest of India, reporting by 2019",ceres,2016,2017,17,11,-13.528,-26.806,2.525,-13.542,0.647
+"Rest of India, reporting by 2019",ceres,2017,2018,30,15,-4.015,-18.319,9.069,-11.88,0.733
+"Rest of India, reporting by 2019",ceres,2018,2019,100,51,-13.708,-17.176,-7.546,-14.614,0.84
+"Rest of India, reporting by 2019",ceres,2019,2020,145,82,-10.001,-13.84,-7.044,-6.064,0.724
+"Rest of India, reporting by 2019",ceres,2020,2021,156,86,4.24,0.269,7.461,5.128,0.327
+"Rest of India, reporting by 2019",ceres,2021,2022,154,85,11.336,7.601,14.797,12.084,0.227
+"Rest of India, reporting by 2019",ceres,2022,2023,156,88,-10.368,-13.342,-5.987,-12.518,0.763
+"Rest of India, reporting by 2019",ceres,2023,2024,155,89,-9.694,-15.368,-5.001,-7.436,0.697
+"Rest of India, started 2020 or later",washu,2022,2024,88,59,-2.189,-7.77,3.685,0.286,0.489
+"Rest of India, started 2020 or later",washu,2020,2021,22,17,0.964,-8.08,8.798,6.166,0.409
+"Rest of India, started 2020 or later",washu,2021,2022,56,36,5.778,-2.054,17.276,7.549,0.357
+"Rest of India, started 2020 or later",washu,2022,2023,88,58,3.889,-2.31,9.423,2.827,0.42
+"Rest of India, started 2020 or later",washu,2023,2024,215,147,-4.864,-7.517,-2.145,-4.802,0.623
+"Rest of India, started 2020 or later",cams,2022,2024,88,59,-9.804,-16.349,-3.111,-2.461,0.557
+"Rest of India, started 2020 or later",cams,2020,2021,22,17,-3.645,-13.111,4.524,-1.755,0.5
+"Rest of India, started 2020 or later",cams,2021,2022,56,36,6.414,-1.885,19.537,7.31,0.339
+"Rest of India, started 2020 or later",cams,2022,2023,88,58,-3.335,-9.989,2.389,-1.599,0.5
+"Rest of India, started 2020 or later",cams,2023,2024,215,147,-3.54,-6.771,-0.034,-2.488,0.581
+"Rest of India, started 2020 or later",ceres,2022,2024,88,59,-18.905,-24.793,-12.508,-14.641,0.739
+"Rest of India, started 2020 or later",ceres,2020,2021,22,17,-3.76,-14.184,5.813,0.53,0.5
+"Rest of India, started 2020 or later",ceres,2021,2022,56,36,11.434,2.825,21.416,12.28,0.304
+"Rest of India, started 2020 or later",ceres,2022,2023,88,58,-2.265,-7.948,3.333,-0.191,0.5
+"Rest of India, started 2020 or later",ceres,2023,2024,214,147,-15.326,-18.449,-12.035,-15.543,0.813

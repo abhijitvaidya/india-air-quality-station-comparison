@@ -1,0 +1,46 @@
+grp,y,stations,median_ratio,entry
+Rest of India,2016,29,1.086,all
+Rest of India,2017,32,1.037,all
+Rest of India,2018,104,0.999,all
+Rest of India,2019,153,0.971,all
+Rest of India,2020,185,0.862,all
+Rest of India,2021,232,0.908,all
+Rest of India,2022,271,0.96,all
+Rest of India,2023,397,0.953,all
+Rest of India,2024,438,0.932,all
+Uttar Pradesh,2016,6,1.282,all
+Uttar Pradesh,2017,6,1.21,all
+Uttar Pradesh,2018,12,1.137,all
+Uttar Pradesh,2019,20,1.069,all
+Uttar Pradesh,2020,23,0.995,all
+Uttar Pradesh,2021,35,0.872,all
+Uttar Pradesh,2022,52,0.72,all
+Uttar Pradesh,2023,52,0.73,all
+Uttar Pradesh,2024,52,0.724,all
+Rest of India,2016,29,1.086,reporting by 2019
+Rest of India,2017,32,1.037,reporting by 2019
+Rest of India,2018,104,0.999,reporting by 2019
+Rest of India,2019,153,0.971,reporting by 2019
+Rest of India,2020,162,0.858,reporting by 2019
+Rest of India,2021,158,0.911,reporting by 2019
+Rest of India,2022,161,0.971,reporting by 2019
+Rest of India,2023,159,0.953,reporting by 2019
+Rest of India,2024,158,0.926,reporting by 2019
+Rest of India,2020,23,0.91,started 2020 or later
+Rest of India,2021,74,0.884,started 2020 or later
+Rest of India,2022,110,0.941,started 2020 or later
+Rest of India,2023,238,0.949,started 2020 or later
+Rest of India,2024,280,0.934,started 2020 or later
+Uttar Pradesh,2016,6,1.282,reporting by 2019
+Uttar Pradesh,2017,6,1.21,reporting by 2019
+Uttar Pradesh,2018,12,1.137,reporting by 2019
+Uttar Pradesh,2019,20,1.069,reporting by 2019
+Uttar Pradesh,2020,23,0.995,reporting by 2019
+Uttar Pradesh,2021,23,0.958,reporting by 2019
+Uttar Pradesh,2022,22,0.847,reporting by 2019
+Uttar Pradesh,2023,22,0.862,reporting by 2019
+Uttar Pradesh,2024,22,0.88,reporting by 2019
+Uttar Pradesh,2021,12,0.621,started 2020 or later
+Uttar Pradesh,2022,30,0.676,started 2020 or later
+Uttar Pradesh,2023,30,0.621,started 2020 or later
+Uttar Pradesh,2024,30,0.595,started 2020 or later

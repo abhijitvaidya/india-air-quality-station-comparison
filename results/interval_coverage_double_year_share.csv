@@ -1,0 +1,2 @@
+scenario,year_share,phi,sims,coverage_block_corr,coverage_block,coverage_iid,coverage_year_t
+double year share,0.2923068667077575,0.08429452721998985,15900,0.6844025157232705,0.5713836477987422,0.5681761006289309,0.971123595505618

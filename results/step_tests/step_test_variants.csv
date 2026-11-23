@@ -1,0 +1,12 @@
+variant,description,tested,bh_5pct,by_5pct,p_le_0.05,up_down,up_up,up_n,up_point_down,out_down,out_up,out_n,up_down_cities,out_down_cities,out_up_cities,ardhali_step_pct,ardhali_month,ardhali_p,ardhali_bh,ardhali_rank_most_negative
+orig,"Main specification: 4 season dummies, step null, 6-observation circular blocks over retained rows, trim 6",175,52,27,75,9,0,21,18,27,16,154,6,23,13,-58.3,202107,0.001,True,1
+trim24,Minimum segment 24 observations,175,45,21,73,11,0,21,19,20,14,154,7,16,10,-58.3,202107,0.001,True,1
+calendar,Calendar-month blocks of 6 (missing months kept missing),175,53,28,77,10,0,21,18,27,16,154,7,23,13,-58.3,202107,0.001,True,1
+sync,"Calendar blocks of 6 on common 2016-2024 grid, same block dates for all stations",175,51,27,72,9,0,21,18,27,15,154,6,23,12,-58.3,202107,0.001,True,1
+month12,12 month-of-year dummies instead of 4 seasons,175,49,24,70,9,0,21,19,25,15,154,6,23,13,-58.3,202107,0.001,True,1
+trend,Linear trend in null and alternative (step beyond trend),175,64,0,81,2,5,21,9,34,23,154,2,29,16,-43.8,202107,0.013,True,11
+drop_2020,Exclude all of 2020,175,60,30,82,10,0,21,19,33,17,154,8,27,12,-61.0,202107,0.001,True,1
+covid_dummy,Mar-Jun 2020 dummy in both models,175,55,30,83,10,0,21,19,31,14,154,7,25,12,-59.0,202107,0.001,True,1
+resid_null,Bootstrap residuals from the no-step fit (not centred on the step model),175,7,0,47,3,0,21,18,4,0,154,3,4,0,-58.3,202107,0.001,True,1
+combined,"Calendar blocks 12, trim 12, exclude Mar-Jun 2020",175,63,32,84,11,0,21,17,32,20,154,8,25,14,-59.0,202107,0.001,True,1
+combined_trend,"As combined, plus linear trend (step beyond trend)",175,60,0,79,2,5,21,10,28,25,154,2,23,18,-46.2,202107,0.004,True,5

@@ -1,0 +1,2 @@
+scenario,year_share,phi,sims,coverage_block_corr,coverage_block,coverage_iid,coverage_year_t
+no year effect,0.0,0.08429452721998985,15900,0.8876100628930818,0.8044654088050315,0.8477358490566038,0.9732584269662922

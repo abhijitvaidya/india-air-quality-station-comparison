@@ -1,0 +1,343 @@
+group,reference,series,weights,year,pct,lo,hi,stations,station_months,cities,stations_in_year
+Uttar Pradesh,washu,station,station-months,2016,20.34,9.36,37.5,56,2947,20,6
+Uttar Pradesh,washu,station,station-months,2017,10.56,0.83,20.02,56,2947,20,10
+Uttar Pradesh,washu,station,station-months,2018,-6.48,-13.58,-0.51,56,2947,20,15
+Uttar Pradesh,washu,station,station-months,2019,-19.63,-27.31,-12.62,56,2947,20,24
+Uttar Pradesh,washu,station,station-months,2020,-32.54,-41.71,-24.54,56,2947,20,24
+Uttar Pradesh,washu,station,station-months,2021,-31.63,-41.27,-23.8,56,2947,20,43
+Uttar Pradesh,washu,station,station-months,2022,-37.05,-45.24,-28.98,56,2947,20,54
+Uttar Pradesh,washu,station,station-months,2023,-43.97,-53.36,-33.97,56,2947,20,53
+Uttar Pradesh,washu,station,station-months,2024,-49.55,-59.32,-40.07,56,2947,20,52
+Uttar Pradesh,washu,reference,station-months,2016,9.81,1.95,14.38,56,2947,20,6
+Uttar Pradesh,washu,reference,station-months,2017,2.94,0.56,5.38,56,2947,20,10
+Uttar Pradesh,washu,reference,station-months,2018,-3.28,-4.75,1.09,56,2947,20,15
+Uttar Pradesh,washu,reference,station-months,2019,-8.53,-10.82,-5.25,56,2947,20,24
+Uttar Pradesh,washu,reference,station-months,2020,-16.29,-18.46,-12.19,56,2947,20,24
+Uttar Pradesh,washu,reference,station-months,2021,-10.75,-13.53,-6.72,56,2947,20,43
+Uttar Pradesh,washu,reference,station-months,2022,-10.19,-12.16,-6.64,56,2947,20,54
+Uttar Pradesh,washu,reference,station-months,2023,-16.99,-18.63,-13.09,56,2947,20,53
+Uttar Pradesh,washu,reference,station-months,2024,-21.03,-23.46,-17.02,56,2947,20,52
+Uttar Pradesh,washu,ratio,station-months,2016,9.59,-1.05,27.83,56,2947,20,6
+Uttar Pradesh,washu,ratio,station-months,2017,7.4,-1.65,16.65,56,2947,20,10
+Uttar Pradesh,washu,ratio,station-months,2018,-3.3,-10.41,2.69,56,2947,20,15
+Uttar Pradesh,washu,ratio,station-months,2019,-12.13,-21.23,-3.34,56,2947,20,24
+Uttar Pradesh,washu,ratio,station-months,2020,-19.41,-31.06,-9.86,56,2947,20,24
+Uttar Pradesh,washu,ratio,station-months,2021,-23.39,-33.88,-14.76,56,2947,20,43
+Uttar Pradesh,washu,ratio,station-months,2022,-29.91,-38.99,-21.51,56,2947,20,54
+Uttar Pradesh,washu,ratio,station-months,2023,-32.5,-44.23,-20.74,56,2947,20,53
+Uttar Pradesh,washu,ratio,station-months,2024,-36.12,-48.87,-23.69,56,2947,20,52
+Uttar Pradesh,cams,station,station-months,2016,20.34,8.82,37.38,56,2947,20,6
+Uttar Pradesh,cams,station,station-months,2017,10.56,1.93,19.4,56,2947,20,10
+Uttar Pradesh,cams,station,station-months,2018,-6.48,-13.81,-0.27,56,2947,20,15
+Uttar Pradesh,cams,station,station-months,2019,-19.63,-27.19,-13.05,56,2947,20,24
+Uttar Pradesh,cams,station,station-months,2020,-32.54,-41.5,-24.19,56,2947,20,24
+Uttar Pradesh,cams,station,station-months,2021,-31.63,-41.05,-24.22,56,2947,20,43
+Uttar Pradesh,cams,station,station-months,2022,-37.05,-45.25,-29.09,56,2947,20,54
+Uttar Pradesh,cams,station,station-months,2023,-43.97,-53.73,-33.62,56,2947,20,53
+Uttar Pradesh,cams,station,station-months,2024,-49.55,-59.38,-39.55,56,2947,20,52
+Uttar Pradesh,cams,reference,station-months,2016,-1.2,-3.81,0.05,56,2947,20,6
+Uttar Pradesh,cams,reference,station-months,2017,0.55,-1.2,3.47,56,2947,20,10
+Uttar Pradesh,cams,reference,station-months,2018,5.66,4.06,7.7,56,2947,20,15
+Uttar Pradesh,cams,reference,station-months,2019,-4.73,-6.83,-3.45,56,2947,20,24
+Uttar Pradesh,cams,reference,station-months,2020,-4.69,-7.55,-2.45,56,2947,20,24
+Uttar Pradesh,cams,reference,station-months,2021,3.35,0.62,5.57,56,2947,20,43
+Uttar Pradesh,cams,reference,station-months,2022,2.74,-0.47,4.97,56,2947,20,54
+Uttar Pradesh,cams,reference,station-months,2023,4.98,2.04,7.0,56,2947,20,53
+Uttar Pradesh,cams,reference,station-months,2024,0.55,-3.33,3.48,56,2947,20,52
+Uttar Pradesh,cams,ratio,station-months,2016,21.81,10.26,41.26,56,2947,20,6
+Uttar Pradesh,cams,ratio,station-months,2017,9.96,-1.6,19.84,56,2947,20,10
+Uttar Pradesh,cams,ratio,station-months,2018,-11.49,-17.98,-5.96,56,2947,20,15
+Uttar Pradesh,cams,ratio,station-months,2019,-15.64,-23.9,-8.36,56,2947,20,24
+Uttar Pradesh,cams,ratio,station-months,2020,-29.22,-39.27,-20.82,56,2947,20,24
+Uttar Pradesh,cams,ratio,station-months,2021,-33.84,-43.33,-25.41,56,2947,20,43
+Uttar Pradesh,cams,ratio,station-months,2022,-38.73,-47.2,-30.88,56,2947,20,54
+Uttar Pradesh,cams,ratio,station-months,2023,-46.62,-56.72,-36.99,56,2947,20,53
+Uttar Pradesh,cams,ratio,station-months,2024,-49.83,-60.28,-39.89,56,2947,20,52
+Uttar Pradesh,ceres,station,station-months,2016,20.34,9.37,37.51,56,2947,20,6
+Uttar Pradesh,ceres,station,station-months,2017,10.56,1.76,19.21,56,2947,20,10
+Uttar Pradesh,ceres,station,station-months,2018,-6.48,-13.65,-0.6,56,2947,20,15
+Uttar Pradesh,ceres,station,station-months,2019,-19.63,-27.18,-13.73,56,2947,20,24
+Uttar Pradesh,ceres,station,station-months,2020,-32.54,-41.68,-25.21,56,2947,20,24
+Uttar Pradesh,ceres,station,station-months,2021,-31.63,-41.2,-24.68,56,2947,20,43
+Uttar Pradesh,ceres,station,station-months,2022,-37.05,-46.12,-29.73,56,2947,20,54
+Uttar Pradesh,ceres,station,station-months,2023,-43.97,-54.74,-34.38,56,2947,20,53
+Uttar Pradesh,ceres,station,station-months,2024,-49.55,-60.44,-40.11,56,2947,20,52
+Uttar Pradesh,ceres,reference,station-months,2016,1.48,-1.93,3.71,56,2947,20,6
+Uttar Pradesh,ceres,reference,station-months,2017,-4.92,-6.67,-2.85,56,2947,20,10
+Uttar Pradesh,ceres,reference,station-months,2018,-4.92,-6.55,-2.88,56,2947,20,15
+Uttar Pradesh,ceres,reference,station-months,2019,9.0,6.12,11.56,56,2947,20,24
+Uttar Pradesh,ceres,reference,station-months,2020,-3.18,-6.3,-0.5,56,2947,20,24
+Uttar Pradesh,ceres,reference,station-months,2021,0.29,-2.72,2.48,56,2947,20,43
+Uttar Pradesh,ceres,reference,station-months,2022,-4.92,-8.58,-2.07,56,2947,20,54
+Uttar Pradesh,ceres,reference,station-months,2023,-0.42,-3.05,1.44,56,2947,20,53
+Uttar Pradesh,ceres,reference,station-months,2024,8.64,4.75,11.91,56,2947,20,52
+Uttar Pradesh,ceres,ratio,station-months,2016,18.58,6.68,37.74,56,2947,20,6
+Uttar Pradesh,ceres,ratio,station-months,2017,16.29,6.23,27.52,56,2947,20,10
+Uttar Pradesh,ceres,ratio,station-months,2018,-1.64,-9.75,6.0,56,2947,20,15
+Uttar Pradesh,ceres,ratio,station-months,2019,-26.27,-33.96,-20.4,56,2947,20,24
+Uttar Pradesh,ceres,ratio,station-months,2020,-30.32,-39.94,-21.65,56,2947,20,24
+Uttar Pradesh,ceres,ratio,station-months,2021,-31.82,-41.57,-23.29,56,2947,20,43
+Uttar Pradesh,ceres,ratio,station-months,2022,-33.8,-43.41,-24.7,56,2947,20,54
+Uttar Pradesh,ceres,ratio,station-months,2023,-43.73,-54.05,-33.29,56,2947,20,53
+Uttar Pradesh,ceres,ratio,station-months,2024,-53.56,-63.51,-44.07,56,2947,20,52
+Uttar Pradesh,washu,ratio,cities equal,2016,12.84,-0.67,27.58,56,2947,20,6
+Uttar Pradesh,washu,ratio,cities equal,2017,8.49,-1.8,19.27,56,2947,20,10
+Uttar Pradesh,washu,ratio,cities equal,2018,-4.68,-11.12,3.43,56,2947,20,15
+Uttar Pradesh,washu,ratio,cities equal,2019,-14.3,-21.75,-5.11,56,2947,20,24
+Uttar Pradesh,washu,ratio,cities equal,2020,-23.5,-33.86,-12.61,56,2947,20,24
+Uttar Pradesh,washu,ratio,cities equal,2021,-25.92,-35.22,-15.82,56,2947,20,43
+Uttar Pradesh,washu,ratio,cities equal,2022,-28.82,-37.73,-19.29,56,2947,20,54
+Uttar Pradesh,washu,ratio,cities equal,2023,-31.42,-41.08,-20.29,56,2947,20,53
+Uttar Pradesh,washu,ratio,cities equal,2024,-34.23,-45.35,-22.56,56,2947,20,52
+Rest of India,washu,station,station-months,2016,13.25,6.93,19.37,487,20838,263,36
+Rest of India,washu,station,station-months,2017,-2.16,-7.41,5.82,487,20838,263,67
+Rest of India,washu,station,station-months,2018,0.07,-2.99,2.37,487,20838,263,111
+Rest of India,washu,station,station-months,2019,-9.82,-15.02,-6.6,487,20838,263,166
+Rest of India,washu,station,station-months,2020,-24.92,-29.14,-22.12,487,20838,263,215
+Rest of India,washu,station,station-months,2021,-15.96,-21.77,-12.14,487,20838,263,265
+Rest of India,washu,station,station-months,2022,-13.02,-18.37,-9.24,487,20838,263,312
+Rest of India,washu,station,station-months,2023,-16.5,-21.61,-12.88,487,20838,263,444
+Rest of India,washu,station,station-months,2024,-21.29,-27.08,-16.97,487,20838,263,471
+Rest of India,washu,reference,station-months,2016,3.33,-1.17,6.02,487,20838,263,36
+Rest of India,washu,reference,station-months,2017,1.04,-0.52,3.93,487,20838,263,67
+Rest of India,washu,reference,station-months,2018,1.36,-0.29,3.07,487,20838,263,111
+Rest of India,washu,reference,station-months,2019,-5.5,-6.74,-3.35,487,20838,263,166
+Rest of India,washu,reference,station-months,2020,-12.48,-14.74,-8.77,487,20838,263,215
+Rest of India,washu,reference,station-months,2021,-6.99,-9.33,-3.28,487,20838,263,265
+Rest of India,washu,reference,station-months,2022,-8.02,-10.36,-4.12,487,20838,263,312
+Rest of India,washu,reference,station-months,2023,-11.84,-14.09,-8.28,487,20838,263,444
+Rest of India,washu,reference,station-months,2024,-13.95,-15.76,-10.84,487,20838,263,471
+Rest of India,washu,ratio,station-months,2016,9.61,4.83,17.26,487,20838,263,36
+Rest of India,washu,ratio,station-months,2017,-3.17,-7.99,3.37,487,20838,263,67
+Rest of India,washu,ratio,station-months,2018,-1.27,-4.56,1.31,487,20838,263,111
+Rest of India,washu,ratio,station-months,2019,-4.57,-10.42,-0.75,487,20838,263,166
+Rest of India,washu,ratio,station-months,2020,-14.21,-19.97,-10.1,487,20838,263,215
+Rest of India,washu,ratio,station-months,2021,-9.65,-15.98,-5.13,487,20838,263,265
+Rest of India,washu,ratio,station-months,2022,-5.43,-11.68,-1.27,487,20838,263,312
+Rest of India,washu,ratio,station-months,2023,-5.3,-11.99,-0.8,487,20838,263,444
+Rest of India,washu,ratio,station-months,2024,-8.53,-15.73,-2.79,487,20838,263,471
+Rest of India,cams,station,station-months,2016,13.25,7.66,19.34,487,20838,263,36
+Rest of India,cams,station,station-months,2017,-2.16,-7.3,6.2,487,20838,263,67
+Rest of India,cams,station,station-months,2018,0.07,-2.95,2.32,487,20838,263,111
+Rest of India,cams,station,station-months,2019,-9.82,-14.9,-6.66,487,20838,263,166
+Rest of India,cams,station,station-months,2020,-24.92,-29.2,-22.15,487,20838,263,215
+Rest of India,cams,station,station-months,2021,-15.96,-21.82,-12.22,487,20838,263,265
+Rest of India,cams,station,station-months,2022,-13.02,-18.86,-9.45,487,20838,263,312
+Rest of India,cams,station,station-months,2023,-16.5,-22.04,-13.18,487,20838,263,444
+Rest of India,cams,station,station-months,2024,-21.29,-27.4,-16.85,487,20838,263,471
+Rest of India,cams,reference,station-months,2016,-1.66,-3.33,0.18,487,20838,263,36
+Rest of India,cams,reference,station-months,2017,-0.3,-1.6,1.34,487,20838,263,67
+Rest of India,cams,reference,station-months,2018,6.55,4.6,7.59,487,20838,263,111
+Rest of India,cams,reference,station-months,2019,-4.27,-5.12,-2.92,487,20838,263,166
+Rest of India,cams,reference,station-months,2020,-5.87,-7.12,-4.03,487,20838,263,215
+Rest of India,cams,reference,station-months,2021,4.44,2.8,6.88,487,20838,263,265
+Rest of India,cams,reference,station-months,2022,3.25,1.14,6.45,487,20838,263,312
+Rest of India,cams,reference,station-months,2023,5.36,3.8,7.8,487,20838,263,444
+Rest of India,cams,reference,station-months,2024,0.05,-1.88,2.82,487,20838,263,471
+Rest of India,cams,ratio,station-months,2016,15.17,9.59,20.93,487,20838,263,36
+Rest of India,cams,ratio,station-months,2017,-1.86,-6.52,6.22,487,20838,263,67
+Rest of India,cams,ratio,station-months,2018,-6.08,-8.51,-3.94,487,20838,263,111
+Rest of India,cams,ratio,station-months,2019,-5.8,-11.4,-2.3,487,20838,263,166
+Rest of India,cams,ratio,station-months,2020,-20.23,-25.35,-16.7,487,20838,263,215
+Rest of India,cams,ratio,station-months,2021,-19.54,-25.39,-15.43,487,20838,263,265
+Rest of India,cams,ratio,station-months,2022,-15.76,-21.64,-11.8,487,20838,263,312
+Rest of India,cams,ratio,station-months,2023,-20.75,-26.23,-17.16,487,20838,263,444
+Rest of India,cams,ratio,station-months,2024,-21.33,-28.12,-15.99,487,20838,263,471
+Rest of India,ceres,station,station-months,2016,13.25,7.47,19.76,486,20815,263,36
+Rest of India,ceres,station,station-months,2017,-2.16,-7.64,5.73,486,20815,263,67
+Rest of India,ceres,station,station-months,2018,0.07,-2.96,2.3,486,20815,263,111
+Rest of India,ceres,station,station-months,2019,-9.82,-14.7,-6.78,486,20815,263,166
+Rest of India,ceres,station,station-months,2020,-24.92,-29.33,-21.97,486,20815,263,215
+Rest of India,ceres,station,station-months,2021,-15.96,-21.42,-12.21,486,20815,263,265
+Rest of India,ceres,station,station-months,2022,-13.02,-18.57,-9.26,486,20815,263,312
+Rest of India,ceres,station,station-months,2023,-16.5,-21.65,-13.03,486,20815,263,443
+Rest of India,ceres,station,station-months,2024,-21.29,-26.8,-17.25,486,20815,263,470
+Rest of India,ceres,reference,station-months,2016,-3.89,-6.77,-2.33,486,20815,263,36
+Rest of India,ceres,reference,station-months,2017,-4.89,-6.83,-2.29,486,20815,263,67
+Rest of India,ceres,reference,station-months,2018,3.43,1.26,6.79,486,20815,263,111
+Rest of India,ceres,reference,station-months,2019,5.77,2.26,7.92,486,20815,263,166
+Rest of India,ceres,reference,station-months,2020,-2.5,-4.14,-0.35,486,20815,263,215
+Rest of India,ceres,reference,station-months,2021,7.02,4.34,10.77,486,20815,263,265
+Rest of India,ceres,reference,station-months,2022,-1.75,-4.25,1.59,486,20815,263,312
+Rest of India,ceres,reference,station-months,2023,2.54,0.61,5.08,486,20815,263,443
+Rest of India,ceres,reference,station-months,2024,10.71,8.41,14.03,486,20815,263,470
+Rest of India,ceres,ratio,station-months,2016,17.83,12.58,24.5,486,20815,263,36
+Rest of India,ceres,ratio,station-months,2017,2.88,-2.6,11.79,486,20815,263,67
+Rest of India,ceres,ratio,station-months,2018,-3.25,-7.86,0.2,486,20815,263,111
+Rest of India,ceres,ratio,station-months,2019,-14.74,-18.54,-11.94,486,20815,263,166
+Rest of India,ceres,ratio,station-months,2020,-22.99,-27.45,-20.02,486,20815,263,215
+Rest of India,ceres,ratio,station-months,2021,-21.48,-26.94,-17.53,486,20815,263,265
+Rest of India,ceres,ratio,station-months,2022,-11.47,-17.72,-6.98,486,20815,263,312
+Rest of India,ceres,ratio,station-months,2023,-18.57,-24.0,-15.41,486,20815,263,443
+Rest of India,ceres,ratio,station-months,2024,-28.91,-34.51,-24.26,486,20815,263,470
+Rest of India,washu,ratio,cities equal,2016,8.24,2.0,16.14,487,20838,263,36
+Rest of India,washu,ratio,cities equal,2017,-1.5,-6.78,3.95,487,20838,263,67
+Rest of India,washu,ratio,cities equal,2018,-0.48,-4.56,3.36,487,20838,263,111
+Rest of India,washu,ratio,cities equal,2019,-5.76,-9.85,-1.66,487,20838,263,166
+Rest of India,washu,ratio,cities equal,2020,-13.99,-17.98,-10.25,487,20838,263,215
+Rest of India,washu,ratio,cities equal,2021,-10.22,-14.79,-6.28,487,20838,263,265
+Rest of India,washu,ratio,cities equal,2022,-4.94,-10.2,-0.43,487,20838,263,312
+Rest of India,washu,ratio,cities equal,2023,-6.12,-11.39,-1.36,487,20838,263,444
+Rest of India,washu,ratio,cities equal,2024,-9.45,-14.32,-5.13,487,20838,263,471
+Rest of India without Delhi,washu,station,station-months,2016,13.6,5.85,20.69,448,17615,262,26
+Rest of India without Delhi,washu,station,station-months,2017,0.93,-5.2,7.64,448,17615,262,50
+Rest of India without Delhi,washu,station,station-months,2018,-1.04,-3.78,1.69,448,17615,262,74
+Rest of India without Delhi,washu,station,station-months,2019,-11.87,-15.78,-7.93,448,17615,262,129
+Rest of India without Delhi,washu,station,station-months,2020,-26.25,-30.23,-22.44,448,17615,262,177
+Rest of India without Delhi,washu,station,station-months,2021,-17.67,-22.9,-12.86,448,17615,262,226
+Rest of India without Delhi,washu,station,station-months,2022,-14.42,-19.88,-9.12,448,17615,262,273
+Rest of India without Delhi,washu,station,station-months,2023,-18.04,-23.1,-13.16,448,17615,262,406
+Rest of India without Delhi,washu,station,station-months,2024,-23.67,-28.67,-18.84,448,17615,262,432
+Rest of India without Delhi,washu,reference,station-months,2016,1.5,-2.08,4.47,448,17615,262,26
+Rest of India without Delhi,washu,reference,station-months,2017,1.93,0.06,4.62,448,17615,262,50
+Rest of India without Delhi,washu,reference,station-months,2018,1.54,-0.46,3.34,448,17615,262,74
+Rest of India without Delhi,washu,reference,station-months,2019,-4.81,-6.7,-2.65,448,17615,262,129
+Rest of India without Delhi,washu,reference,station-months,2020,-10.77,-13.31,-8.23,448,17615,262,177
+Rest of India without Delhi,washu,reference,station-months,2021,-5.28,-8.12,-2.49,448,17615,262,226
+Rest of India without Delhi,washu,reference,station-months,2022,-6.53,-9.54,-3.68,448,17615,262,273
+Rest of India without Delhi,washu,reference,station-months,2023,-10.34,-13.2,-7.57,448,17615,262,406
+Rest of India without Delhi,washu,reference,station-months,2024,-12.69,-15.04,-10.23,448,17615,262,432
+Rest of India without Delhi,washu,ratio,station-months,2016,11.92,5.25,19.03,448,17615,262,26
+Rest of India without Delhi,washu,ratio,station-months,2017,-0.98,-6.89,5.09,448,17615,262,50
+Rest of India without Delhi,washu,ratio,station-months,2018,-2.54,-5.11,0.48,448,17615,262,74
+Rest of India without Delhi,washu,ratio,station-months,2019,-7.42,-11.64,-3.8,448,17615,262,129
+Rest of India without Delhi,washu,ratio,station-months,2020,-17.35,-21.05,-13.73,448,17615,262,177
+Rest of India without Delhi,washu,ratio,station-months,2021,-13.08,-16.93,-9.35,448,17615,262,226
+Rest of India without Delhi,washu,ratio,station-months,2022,-8.44,-12.84,-4.04,448,17615,262,273
+Rest of India without Delhi,washu,ratio,station-months,2023,-8.59,-13.67,-3.82,448,17615,262,406
+Rest of India without Delhi,washu,ratio,station-months,2024,-12.58,-17.32,-8.04,448,17615,262,432
+Rest of India without Delhi,cams,station,station-months,2016,13.6,5.87,21.01,448,17615,262,26
+Rest of India without Delhi,cams,station,station-months,2017,0.93,-5.41,8.12,448,17615,262,50
+Rest of India without Delhi,cams,station,station-months,2018,-1.04,-3.96,1.59,448,17615,262,74
+Rest of India without Delhi,cams,station,station-months,2019,-11.87,-16.0,-7.84,448,17615,262,129
+Rest of India without Delhi,cams,station,station-months,2020,-26.25,-30.31,-22.57,448,17615,262,177
+Rest of India without Delhi,cams,station,station-months,2021,-17.67,-22.77,-12.97,448,17615,262,226
+Rest of India without Delhi,cams,station,station-months,2022,-14.42,-19.79,-9.23,448,17615,262,273
+Rest of India without Delhi,cams,station,station-months,2023,-18.04,-23.03,-13.21,448,17615,262,406
+Rest of India without Delhi,cams,station,station-months,2024,-23.67,-28.26,-19.23,448,17615,262,432
+Rest of India without Delhi,cams,reference,station-months,2016,-1.77,-3.65,0.69,448,17615,262,26
+Rest of India without Delhi,cams,reference,station-months,2017,0.21,-1.66,1.74,448,17615,262,50
+Rest of India without Delhi,cams,reference,station-months,2018,5.52,4.41,6.87,448,17615,262,74
+Rest of India without Delhi,cams,reference,station-months,2019,-3.73,-4.86,-2.77,448,17615,262,129
+Rest of India without Delhi,cams,reference,station-months,2020,-5.12,-6.84,-3.76,448,17615,262,177
+Rest of India without Delhi,cams,reference,station-months,2021,5.39,3.27,7.3,448,17615,262,226
+Rest of India without Delhi,cams,reference,station-months,2022,4.47,1.8,7.13,448,17615,262,273
+Rest of India without Delhi,cams,reference,station-months,2023,6.56,4.68,8.24,448,17615,262,406
+Rest of India without Delhi,cams,reference,station-months,2024,1.62,-0.11,3.16,448,17615,262,432
+Rest of India without Delhi,cams,ratio,station-months,2016,15.65,7.8,22.53,448,17615,262,26
+Rest of India without Delhi,cams,ratio,station-months,2017,0.72,-5.53,8.54,448,17615,262,50
+Rest of India without Delhi,cams,ratio,station-months,2018,-6.22,-9.13,-3.32,448,17615,262,74
+Rest of India without Delhi,cams,ratio,station-months,2019,-8.46,-12.47,-4.68,448,17615,262,129
+Rest of India without Delhi,cams,ratio,station-months,2020,-22.26,-26.56,-17.91,448,17615,262,177
+Rest of India without Delhi,cams,ratio,station-months,2021,-21.89,-27.11,-16.97,448,17615,262,226
+Rest of India without Delhi,cams,ratio,station-months,2022,-18.08,-23.19,-13.24,448,17615,262,273
+Rest of India without Delhi,cams,ratio,station-months,2023,-23.09,-27.64,-18.88,448,17615,262,406
+Rest of India without Delhi,cams,ratio,station-months,2024,-24.89,-29.28,-20.62,448,17615,262,432
+Rest of India without Delhi,ceres,station,station-months,2016,13.6,5.83,21.49,447,17592,262,26
+Rest of India without Delhi,ceres,station,station-months,2017,0.93,-5.85,7.75,447,17592,262,50
+Rest of India without Delhi,ceres,station,station-months,2018,-1.04,-3.92,1.71,447,17592,262,74
+Rest of India without Delhi,ceres,station,station-months,2019,-11.87,-15.93,-7.95,447,17592,262,129
+Rest of India without Delhi,ceres,station,station-months,2020,-26.25,-30.16,-22.41,447,17592,262,177
+Rest of India without Delhi,ceres,station,station-months,2021,-17.67,-22.68,-12.99,447,17592,262,226
+Rest of India without Delhi,ceres,station,station-months,2022,-14.42,-19.92,-9.46,447,17592,262,273
+Rest of India without Delhi,ceres,station,station-months,2023,-18.03,-23.06,-13.14,447,17592,262,405
+Rest of India without Delhi,ceres,station,station-months,2024,-23.68,-28.15,-19.22,447,17592,262,431
+Rest of India without Delhi,ceres,reference,station-months,2016,-4.62,-7.38,-2.45,447,17592,262,26
+Rest of India without Delhi,ceres,reference,station-months,2017,-4.53,-6.92,-1.74,447,17592,262,50
+Rest of India without Delhi,ceres,reference,station-months,2018,5.28,3.17,7.18,447,17592,262,74
+Rest of India without Delhi,ceres,reference,station-months,2019,4.32,1.69,7.1,447,17592,262,129
+Rest of India without Delhi,ceres,reference,station-months,2020,-1.97,-4.4,0.33,447,17592,262,177
+Rest of India without Delhi,ceres,reference,station-months,2021,8.36,4.81,11.63,447,17592,262,226
+Rest of India without Delhi,ceres,reference,station-months,2022,-0.21,-2.86,2.13,447,17592,262,273
+Rest of India without Delhi,ceres,reference,station-months,2023,3.19,0.57,5.67,447,17592,262,405
+Rest of India without Delhi,ceres,reference,station-months,2024,11.93,8.97,14.87,447,17592,262,431
+Rest of India without Delhi,ceres,ratio,station-months,2016,19.1,11.88,26.7,447,17592,262,26
+Rest of India without Delhi,ceres,ratio,station-months,2017,5.73,-1.64,13.53,447,17592,262,50
+Rest of India without Delhi,ceres,ratio,station-months,2018,-6.0,-8.62,-3.11,447,17592,262,74
+Rest of India without Delhi,ceres,ratio,station-months,2019,-15.52,-19.3,-11.79,447,17592,262,129
+Rest of India without Delhi,ceres,ratio,station-months,2020,-24.77,-28.16,-21.09,447,17592,262,177
+Rest of India without Delhi,ceres,ratio,station-months,2021,-24.02,-27.84,-20.06,447,17592,262,226
+Rest of India without Delhi,ceres,ratio,station-months,2022,-14.23,-19.06,-9.17,447,17592,262,273
+Rest of India without Delhi,ceres,ratio,station-months,2023,-20.56,-24.71,-16.2,447,17592,262,405
+Rest of India without Delhi,ceres,ratio,station-months,2024,-31.81,-35.36,-27.8,447,17592,262,431
+Plain outside Uttar Pradesh,washu,station,station-months,2016,13.12,0.31,30.32,132,8385,63,15
+Plain outside Uttar Pradesh,washu,station,station-months,2017,-4.64,-10.65,17.14,132,8385,63,27
+Plain outside Uttar Pradesh,washu,station,station-months,2018,-0.65,-10.59,2.29,132,8385,63,59
+Plain outside Uttar Pradesh,washu,station,station-months,2019,-6.7,-14.11,-3.53,132,8385,63,83
+Plain outside Uttar Pradesh,washu,station,station-months,2020,-25.07,-32.93,-21.9,132,8385,63,98
+Plain outside Uttar Pradesh,washu,station,station-months,2021,-14.55,-23.68,-10.69,132,8385,63,118
+Plain outside Uttar Pradesh,washu,station,station-months,2022,-11.46,-19.54,-8.18,132,8385,63,123
+Plain outside Uttar Pradesh,washu,station,station-months,2023,-17.23,-25.72,-14.29,132,8385,63,123
+Plain outside Uttar Pradesh,washu,station,station-months,2024,-18.85,-28.87,-14.22,132,8385,63,131
+Plain outside Uttar Pradesh,washu,reference,station-months,2016,8.61,6.09,12.09,132,8385,63,15
+Plain outside Uttar Pradesh,washu,reference,station-months,2017,-0.59,-2.88,3.59,132,8385,63,27
+Plain outside Uttar Pradesh,washu,reference,station-months,2018,-0.14,-2.32,0.62,132,8385,63,59
+Plain outside Uttar Pradesh,washu,reference,station-months,2019,-7.25,-9.53,-5.83,132,8385,63,83
+Plain outside Uttar Pradesh,washu,reference,station-months,2020,-15.91,-18.33,-12.24,132,8385,63,98
+Plain outside Uttar Pradesh,washu,reference,station-months,2021,-9.3,-10.75,-5.83,132,8385,63,118
+Plain outside Uttar Pradesh,washu,reference,station-months,2022,-10.6,-13.14,-7.36,132,8385,63,123
+Plain outside Uttar Pradesh,washu,reference,station-months,2023,-16.39,-19.05,-14.35,132,8385,63,123
+Plain outside Uttar Pradesh,washu,reference,station-months,2024,-18.14,-21.88,-16.25,132,8385,63,131
+Plain outside Uttar Pradesh,washu,ratio,station-months,2016,4.15,-7.68,19.02,132,8385,63,15
+Plain outside Uttar Pradesh,washu,ratio,station-months,2017,-4.07,-9.89,15.68,132,8385,63,27
+Plain outside Uttar Pradesh,washu,ratio,station-months,2018,-0.51,-8.89,2.12,132,8385,63,59
+Plain outside Uttar Pradesh,washu,ratio,station-months,2019,0.6,-7.49,3.86,132,8385,63,83
+Plain outside Uttar Pradesh,washu,ratio,station-months,2020,-10.89,-21.0,-7.0,132,8385,63,98
+Plain outside Uttar Pradesh,washu,ratio,station-months,2021,-5.79,-16.11,-1.45,132,8385,63,118
+Plain outside Uttar Pradesh,washu,ratio,station-months,2022,-0.97,-9.78,2.02,132,8385,63,123
+Plain outside Uttar Pradesh,washu,ratio,station-months,2023,-1.0,-11.12,2.77,132,8385,63,123
+Plain outside Uttar Pradesh,washu,ratio,station-months,2024,-0.87,-12.21,3.31,132,8385,63,131
+Plain outside Uttar Pradesh,cams,station,station-months,2016,13.12,0.85,30.44,132,8385,63,15
+Plain outside Uttar Pradesh,cams,station,station-months,2017,-4.64,-10.8,18.04,132,8385,63,27
+Plain outside Uttar Pradesh,cams,station,station-months,2018,-0.65,-10.59,2.21,132,8385,63,59
+Plain outside Uttar Pradesh,cams,station,station-months,2019,-6.7,-14.74,-3.61,132,8385,63,83
+Plain outside Uttar Pradesh,cams,station,station-months,2020,-25.07,-33.09,-22.05,132,8385,63,98
+Plain outside Uttar Pradesh,cams,station,station-months,2021,-14.55,-24.04,-10.87,132,8385,63,118
+Plain outside Uttar Pradesh,cams,station,station-months,2022,-11.46,-19.77,-8.04,132,8385,63,123
+Plain outside Uttar Pradesh,cams,station,station-months,2023,-17.23,-25.51,-14.35,132,8385,63,123
+Plain outside Uttar Pradesh,cams,station,station-months,2024,-18.85,-29.26,-14.42,132,8385,63,131
+Plain outside Uttar Pradesh,cams,reference,station-months,2016,-2.29,-5.65,-1.17,132,8385,63,15
+Plain outside Uttar Pradesh,cams,reference,station-months,2017,-0.91,-1.57,1.64,132,8385,63,27
+Plain outside Uttar Pradesh,cams,reference,station-months,2018,7.59,5.05,8.19,132,8385,63,59
+Plain outside Uttar Pradesh,cams,reference,station-months,2019,-3.99,-5.0,-0.4,132,8385,63,83
+Plain outside Uttar Pradesh,cams,reference,station-months,2020,-5.47,-6.87,-1.17,132,8385,63,98
+Plain outside Uttar Pradesh,cams,reference,station-months,2021,5.15,3.6,10.12,132,8385,63,118
+Plain outside Uttar Pradesh,cams,reference,station-months,2022,0.32,-1.17,3.61,132,8385,63,123
+Plain outside Uttar Pradesh,cams,reference,station-months,2023,4.09,3.19,7.53,132,8385,63,123
+Plain outside Uttar Pradesh,cams,reference,station-months,2024,-1.95,-3.63,2.74,132,8385,63,131
+Plain outside Uttar Pradesh,cams,ratio,station-months,2016,15.78,6.08,33.93,132,8385,63,15
+Plain outside Uttar Pradesh,cams,ratio,station-months,2017,-3.76,-9.52,16.43,132,8385,63,27
+Plain outside Uttar Pradesh,cams,ratio,station-months,2018,-7.66,-15.86,-5.25,132,8385,63,59
+Plain outside Uttar Pradesh,cams,ratio,station-months,2019,-2.81,-12.92,0.75,132,8385,63,83
+Plain outside Uttar Pradesh,cams,ratio,station-months,2020,-20.73,-31.14,-16.58,132,8385,63,98
+Plain outside Uttar Pradesh,cams,ratio,station-months,2021,-18.73,-29.94,-14.44,132,8385,63,118
+Plain outside Uttar Pradesh,cams,ratio,station-months,2022,-11.74,-21.17,-8.88,132,8385,63,123
+Plain outside Uttar Pradesh,cams,ratio,station-months,2023,-20.48,-30.0,-17.28,132,8385,63,123
+Plain outside Uttar Pradesh,cams,ratio,station-months,2024,-17.24,-30.23,-11.19,132,8385,63,131
+Plain outside Uttar Pradesh,ceres,station,station-months,2016,13.12,0.01,31.19,132,8385,63,15
+Plain outside Uttar Pradesh,ceres,station,station-months,2017,-4.64,-10.6,17.96,132,8385,63,27
+Plain outside Uttar Pradesh,ceres,station,station-months,2018,-0.65,-10.42,2.28,132,8385,63,59
+Plain outside Uttar Pradesh,ceres,station,station-months,2019,-6.7,-14.58,-3.71,132,8385,63,83
+Plain outside Uttar Pradesh,ceres,station,station-months,2020,-25.07,-33.17,-21.99,132,8385,63,98
+Plain outside Uttar Pradesh,ceres,station,station-months,2021,-14.55,-23.92,-10.93,132,8385,63,118
+Plain outside Uttar Pradesh,ceres,station,station-months,2022,-11.46,-20.3,-8.19,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,station,station-months,2023,-17.23,-26.11,-14.29,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,station,station-months,2024,-18.85,-29.71,-14.34,132,8385,63,131
+Plain outside Uttar Pradesh,ceres,reference,station-months,2016,-2.43,-4.46,-1.12,132,8385,63,15
+Plain outside Uttar Pradesh,ceres,reference,station-months,2017,-6.02,-9.49,-3.05,132,8385,63,27
+Plain outside Uttar Pradesh,ceres,reference,station-months,2018,1.04,-0.23,6.41,132,8385,63,59
+Plain outside Uttar Pradesh,ceres,reference,station-months,2019,7.94,3.34,9.37,132,8385,63,83
+Plain outside Uttar Pradesh,ceres,reference,station-months,2020,-3.76,-7.02,-2.35,132,8385,63,98
+Plain outside Uttar Pradesh,ceres,reference,station-months,2021,2.76,-0.85,4.32,132,8385,63,118
+Plain outside Uttar Pradesh,ceres,reference,station-months,2022,-6.85,-10.5,-4.77,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,reference,station-months,2023,-0.8,-6.25,1.27,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,reference,station-months,2024,6.29,2.59,7.64,132,8385,63,131
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2016,15.95,2.48,35.28,132,8385,63,15
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2017,1.48,-5.0,27.36,132,8385,63,27
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2018,-1.68,-14.45,2.24,132,8385,63,59
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2019,-13.56,-19.92,-9.79,132,8385,63,83
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2020,-22.14,-30.72,-18.47,132,8385,63,98
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2021,-16.84,-26.06,-12.47,132,8385,63,118
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2022,-4.95,-14.32,-0.4,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2023,-16.56,-24.12,-11.79,132,8385,63,123
+Plain outside Uttar Pradesh,ceres,ratio,station-months,2024,-23.65,-33.74,-19.41,132,8385,63,131

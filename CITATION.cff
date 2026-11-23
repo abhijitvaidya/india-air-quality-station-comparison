@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it using the DOI below."
+title: "Code and data for: Comparing India's air-quality stations with satellite, reanalysis and manual measurements, 2016–2024"
+type: software
+authors:
+  - family-names: Vaidya
+    given-names: Abhijit
+    affiliation: "Independent researcher, Pune, India"
+    orcid: "https://orcid.org/0009-0000-1690-5224"
+version: "1.0.0"
+doi: "10.5281/zenodo.24445940"
+license: MIT
+repository-code: "https://github.com/abhijitvaidya/india-air-quality-station-comparison"
+keywords:
+  - air quality monitoring
+  - PM2.5
+  - PM10
+  - satellite estimates
+  - reanalysis
+  - India
